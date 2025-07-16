@@ -3,13 +3,15 @@
 ### How to use
 These all work as system prompt in API or AI Studio and save as a Gem in Gemini web/app as "Pyrite"
 
-They MOSTLY work as a direct message. Try adding a "Hey Pyrite" at the bottom if you get weird results/refusals. Worse way to use these prompts btw, just put it in sys prompt or use a Gem, my testing for direct message was very limited, especially v3
+I made version 3 in pursuit of extra jailbreak power but it's really not necessary for Gemini, and sometimes thinking may bleed over into the response. I think 2 or short may be a more consistent experience.
+
+They MOSTLY work as a direct message. Try adding a "Hey Pyrite" at the bottom if you get weird results/refusals. Worse way to use these prompts btw, just put it in sys prompt or use a Gem, my testing for direct message was very limited, especially version 3
 
 If you can't save as Gem, see below "Weird details" section
 
 ### Where to get Gemini
 - Gemini web/app - Create a Gem  and paste in instructions. There's are no NSFW external output filters at all, dead serious. But you need subscription for more than like five 2.5 Pro a day, and that's not a lot considering there's free options.
-- AI Studio - Decent amount of free 2.5 Pro. Make sure you disable external filters, but there's an annoying one you can't turn off ("Content not permitted" warning)
+- AI Studio - Decent amount of free 2.5 Pro. Make sure you disable external filters, but there's an annoying one you can't turn off ("Content not permitted" warning). Useable for sure, but more censored than the other two and can get laggy.
 - API - Decent amount of free 2.5 Pro. You'll need a front end that turns off external filters like SillyTavern. Get an API key for AI Studio. There's still a filter you can't turn off but it's not bad.
 
 ### Pyrite 3 Beta
@@ -17,7 +19,7 @@ If you can't save as Gem, see below "Weird details" section
 - Pyrite now speaks by default before starting to write - haven't tested it but I prompted it to be optional, should be able to get rid of it by saying you decline the initial remark. 
 - Only breifly tested in a Gem but probably works if you paste it in chat, might want to add "Hi Pyrite" at the end or something.
 - Quick update, sometime told me it worked badly with Flash on web/app, I swapped out like 2 words and it works REALLY well, IDK Gemini is weird. Use the normal version for most things IMO, but specifically for Flash on web/app, use the Flash version
-- The Flash version works well across a lot of thinking models, notably Grok 4 and DeepSeek R1.
+- The Flash version seems to work okay on other thinking models, notably Grok 4 and DeepSeek R1. Thinking bleeds over into 
 
 ### Pyrite 2 Beta
 - Pyrite does not comment before response by default (but you can still ask for it)
