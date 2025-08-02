@@ -1,6 +1,4 @@
-This is Spicy writer, renamed "Mild" to try to avoid their scans a little, but hasn't been panning out.
-
-["Mild" (lol) Writer 2025-7-4](https://chatgpt.com/g/g-68838fa007748191ae7c12d152f2c383-mild-lol-writer-2025-7-4-reupload-3)
+[Spicy Writer GPT](https://chatgpt.com/g/g-688e6575347c8191a60fb6560aac0a01-spicy-writer-2025-8-2) - non GPT Store link
 
 Public version can be searched on the GPT store.
 
